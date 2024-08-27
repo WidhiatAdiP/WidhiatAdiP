@@ -6,8 +6,7 @@ Hi, I'm Widhiat! 👋
 - 📫 How to reach me swolf3693@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Did you know? 🧠
-
-I'm a self-taught developer who started coding by creating simple games on a calculator! 🎮 Now, I’m currently building full-stack web applications and always on the lookout for new tech challenges. 🚀
+I'm a self-taught developer who started coding by creating simple games on a calculator! 🎮 Now, I’m currently building front end development for web applications and always on the lookout for new tech challenges. 🚀
 
 <!---
 WidhiatAdiP/WidhiatAdiP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
