@@ -1,7 +1,7 @@
 ## About Me
 Hi, I'm Widhiat! 👋
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React.js for Front End Development
+- 🌱 I’m currently learning for Front End Development
 - 💞️ I’m looking to collaborate on LinkedIn: https://www.linkedin.com/in/widhiat-adi-prasetyo-03a84630a/
 - 📫 How to reach me widhiatadipr12@gmail.com
 - 😄 Pronouns: He/Him
